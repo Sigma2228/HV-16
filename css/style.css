@@ -105,7 +105,7 @@ color: dodgerblue;
 .text1:nth-child(2)::before {
     content: '';
     display: block;
-    background-image: url("photo16/clock\ 1.png");
+    background-image: url("photo16/clock 1.png");
     background-repeat: no-repeat;
     height: 100px;
     width: 100%;
